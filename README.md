@@ -1,18 +1,18 @@
-# Project 1 - *Name of App Here*
+# Project 1 - Simple To Do
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+Simple To Do is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: Haoming Zhou
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following 3 functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Haoming Zhou] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
